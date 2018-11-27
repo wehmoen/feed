@@ -6,6 +6,7 @@ interface Item {
 
   description?: string;
   content?: string;
+  payout?: string;
 
   guid?: string;
 
